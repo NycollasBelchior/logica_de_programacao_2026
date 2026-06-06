@@ -23,8 +23,5 @@ if(escolhaUsuario === -1) {
         } else {
             console.log("você ganhou")
         }
-
-
-    
 } 
-       
+            
